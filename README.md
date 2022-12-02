@@ -1,17 +1,25 @@
-<h1 align="center">Hi 👋, I'm Ahmed Malik</h1>
-<h3 align="center">i'm computer science student from France</h3>
-
-- 🔭 I’m currently study on **Dev Web**
-
-- 👨‍💻 All of my projects are available at [https://ahmed-malik-ben-elkadi.students-laplateforme.io/index.html](https://ahmed-malik-ben-elkadi.students-laplateforme.io/index.html)
-
-- 📫 How to reach me **ahmed-malik.ben-elkadi@laplateforme.io**
-
-- ⚡ Fun fact **I think i'm funny**
+# 💫 About Me:
+🔭 I’m currently study on Dev Web<br><br>👨‍💻 All of my projects are available at https://ahmed-malik-ben-elkadi.students-laplateforme.io/index.html<br><br>📫 How to reach me ahmed-malik.ben-elkadi@laplateforme.io<br><br>⚡ Fun fact I think i'm funny
 
 
-<p align="left">
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Malik#1604) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ahmed Malik Ben elkadi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@MalikBenelkadi) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AHmed-Malik-benelkadi&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AHmed-Malik-benelkadi&theme=ayu-mirage&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AHmed-Malik-benelkadi&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=AHmed-Malik-benelkadi&icon=5&color=4)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/AhmedBenelkad) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
