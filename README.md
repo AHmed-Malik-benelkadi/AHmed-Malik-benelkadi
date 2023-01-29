@@ -1,5 +1,5 @@
 <h1 style="color:rouge">💫 About Me: </h1>
-🔭 I’m currently study on computer science<br><br>👨‍💻 All of my projects are available at https://ahmed-malik-ben-elkadi.students-laplateforme.io/index.html<br><br>📫 How to reach me ahmed-malik.ben-elkadi@laplateforme.io<br><br>
+🔭 I’m currently study on computer science<br><br>👨‍💻 All of my projects are available at :  https://ahmed-malik-ben-elkadi.students-laplateforme.io/index.html<br><br>📫 How to reach me ? : ahmed-malik.ben-elkadi@laplateforme.io<br><br>
 
 
 ## 🌐 Socials:
@@ -26,4 +26,4 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/AhmedBenelkad) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
