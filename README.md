@@ -1,5 +1,7 @@
 <h1 align="center">Hello !</h1>
 
+![Hello](https://user-images.githubusercontent.com/115155554/218258800-5a8738d8-d8ea-479a-9a61-d0260904f63c.gif)
+
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 🔭 I’m currently study on computer science<br><br>👨‍💻 All of my projects are available at :  https://ahmed-malik-ben-elkadi.students-laplateforme.io/index.html<br><br>📫 How to reach me ? : ahmed-malik.ben-elkadi@laplateforme.io<br><br>
