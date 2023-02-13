@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" />
 </div>  
 
-<h1 align="center">Hello !</h1>
+
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 🔭 I’m currently study on computer science
 <br>👨‍💻 All of my projects are available at :  https://ahmed-malik-ben-elkadi.students-laplateforme.io/index.html <br>📫 How to reach me  : ahmed-malik.ben-elkadi@laplateforme.io<br><br>
