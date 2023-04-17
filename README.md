@@ -56,14 +56,13 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AHmed-Malik-benelkadi&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AHmed-Malik-benelkadi&theme=ayu-mirage&hide_border=false)<br/>
+![Carte profil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AHmed-Malik-benelkadi&theme=monokai)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AHmed-Malik-benelkadi&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
  
-<a href="https://github.com/AHmed-Malik-benelkadi/github-readme-activity-graph"><img alt="AHmed-Malik-benelkadi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AHmed-Malik-benelkadi&bg_color=&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
-</details>
+
 
 
 </details>
