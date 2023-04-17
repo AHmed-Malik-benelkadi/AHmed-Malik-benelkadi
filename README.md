@@ -3,8 +3,16 @@
 
 [![animation](https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif)
 
-🔭 I’m currently study on computer science
-<br>👨‍💻 All of my projects are available at :  https://ahmed-malik-ben-elkadi.students-laplateforme.io/portfolio/index.html <br>📫 How to reach me  : ahmed-malik.ben-elkadi@laplateforme.io<br><br>
+### Hi there! 👋
+
+I'm a computer science student with a passion for programming.
+
+- 🔭 Currently, I'm studying computer science.
+- 👨‍💻 I've worked on various projects, which you can check out on [my portfolio](https://ahmed-malik-ben-elkadi.students-laplateforme.io/portfolio/index.html).
+- 📫 You can reach me via email at ahmed-malik.ben-elkadi@laplateforme.io.
+
+Looking forward to chatting with you! 😊
+
 
 
 
