@@ -19,7 +19,8 @@ Looking forward to chatting with you! 😊
 
 
 
-## My favorite tools and technologies ⚙️ 
+### My favorite tools and technologies ⚙️ 
+![animation](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 <table>
   <tr>
@@ -65,7 +66,9 @@ Looking forward to chatting with you! 😊
 
 
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
+![animation](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
 ![Carte profil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AHmed-Malik-benelkadi&theme=monokai)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AHmed-Malik-benelkadi&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -80,10 +83,14 @@ Looking forward to chatting with you! 😊
 [![](https://visitcount.itsvg.in/api?id=AHmed-Malik-benelkadi&icon=5&color=4)](https://visitcount.itsvg.in)
 
 
-  ## 💰 You can help me by Donating
+  ### 💰 You can help me by Donating
+  ![animation](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/AhmedBenelkad) 
 
-  ## 🌐 Socials: 
+  ### 🌐 Socials: 
+  ![animation](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Malik#1604) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AhmedMalikBenelkadi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@MalikBenelkadi) 
 
 
