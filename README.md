@@ -6,7 +6,7 @@
 🔭 I’m currently study on computer science
 <br>👨‍💻 All of my projects are available at :  https://ahmed-malik-ben-elkadi.students-laplateforme.io/portfolio/index.html <br>📫 How to reach me  : ahmed-malik.ben-elkadi@laplateforme.io<br><br>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 
 ## My favorite tools and technologies ⚙️ 
@@ -54,7 +54,6 @@
 
 
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AHmed-Malik-benelkadi&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
