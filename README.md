@@ -5,7 +5,7 @@
 
 ### Hi there! 👋
 
-I'm a computer science student with a passion for programming.
+I'm a computer science student with a passion for AI.
 
 - 🔭 Currently, I'm studying computer science.
 - 👨‍💻 I've worked on various projects, which you can check out on [my portfolio](https://ahmed-malik-ben-elkadi.students-laplateforme.io/portfolio/index.html).
@@ -85,4 +85,4 @@ Looking forward to chatting with you! 😊
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Malik#1604) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AhmedMalikBenelkadi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@MalikBenelkadi) 
 
 
-![Carte profil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AHmed-Malik-benelkadi&theme=monokai)
+
