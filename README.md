@@ -4,7 +4,7 @@
 ![animation](https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif)
 
 
-### About ME! 👋
+###  👋 About ME! 
 ![animation](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 I'm a computer science student with a passion for AI.
@@ -19,7 +19,7 @@ Looking forward to chatting with you! 😊
 
 
 
-### My favorite tools and technologies ⚙️ 
+### ⚙️ My favorite tools and technologies 
 ![animation](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 <table>
