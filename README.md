@@ -10,7 +10,7 @@
 I'm a computer science student with a passion for AI.
 
 - 🔭 Currently, I'm studying computer science.
-- 👨‍💻 I've worked on various projects, which you can check out on [my portfolio](https://ahmed-malik-ben-elkadi.students-laplateforme.io/portfolio/index.html).
+- 👨‍💻 I've worked on various projects, which you can check out on [my portfolio](https://ahmed-malik-ben-elkadi.students-laplateforme.io/index.html).
 - 📫 You can reach me via email at ahmed-malik.ben-elkadi@laplateforme.io.
 
 Looking forward to chatting with you! 😊
